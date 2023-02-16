@@ -3,9 +3,6 @@ import re
 
 
 abbrevations = {
-    'E:': 'Englisch',
-    'M:': 'Mathe',
-    'D:': 'Deutsch',
     'PL:': 'Philo',
     'SW:': 'SoWi',
     'BI:': 'Bio',
@@ -15,6 +12,9 @@ abbrevations = {
     'IF:': 'Info',
     'S1:': 'Spanisch',
     'PA:': 'Päda',
+    'E:': 'Englisch',
+    'M:': 'Mathe',
+    'D:': 'Deutsch',
     }
 
 
