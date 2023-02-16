@@ -41,6 +41,7 @@ def replace_abbreviations(database_name):
         "Sec": "Sechelmann",
         "Sar": "Sarx",
         "Sem": "Semerad",
+        "Syc": "Sychold",
     }
 
     # Connect to the SQLite database
